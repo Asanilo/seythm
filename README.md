@@ -17,11 +17,11 @@ Seythm is a terminal-native 6-key rhythm game with a shell-first interface, bund
 
 ## Screenshots
 
-![Song Select](assets/screenshots/song-select.svg)
+![Song Select](assets/screenshots/song-select.jpg)
 
-![Gameplay](assets/screenshots/gameplay.svg)
+![Gameplay](assets/screenshots/gameplay.jpg)
 
-![Results](assets/screenshots/results.svg)
+![Results](assets/screenshots/results.jpg)
 
 ## Quick Start
 
