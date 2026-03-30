@@ -1,0 +1,25 @@
+[package]
+name = "seythm"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "code_m"
+path = "src/lib.rs"
+
+[[bin]]
+name = "seythm"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+base64 = "0.22"
+cpal = "0.15"
+crossterm = "0.28"
+hound = "3"
+image = { version = "0.25", default-features = true, features = ["png", "jpeg", "webp"] }
+ratatui = "0.29"
+serde = { version = "1", features = ["derive"] }
+symphonia = { version = "0.5", features = ["mp3", "ogg", "vorbis", "wav", "pcm"] }
+thiserror = "2"
+toml = "0.8"

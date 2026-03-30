@@ -1,0 +1,21 @@
+[metadata]
+title = "Demo Hold"
+artist = "Code M"
+chart_name = "Normal"
+offset_ms = 0
+
+[[timing]]
+start_ms = 0
+bpm = 128.0
+beat_length = 4
+
+[[notes]]
+kind = "hold"
+start_ms = 1200
+end_ms = 2600
+lane = 2
+
+[[notes]]
+kind = "tap"
+time_ms = 3000
+lane = 5

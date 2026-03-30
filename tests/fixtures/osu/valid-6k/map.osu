@@ -1,0 +1,31 @@
+osu file format v14
+
+[General]
+AudioFilename: song.ogg
+Mode: 3
+
+[Editor]
+Bookmarks: 1000
+
+[Metadata]
+Title: Minimal Mania 6K
+Artist: Code M
+Creator: Code M
+Version: Starter
+
+[Difficulty]
+HPDrainRate: 5
+CircleSize: 6
+OverallDifficulty: 8
+ApproachRate: 9
+SliderMultiplier: 1.4
+SliderTickRate: 1
+
+[TimingPoints]
+0,500,4,2,1,60,1,0
+1500,-100,4,2,1,60,0,0
+
+[HitObjects]
+0,192,1000,1,0,0:0:0:0:
+256,192,1500,128,0,2000:0:0:0:0:
+427,192,2000,1,0,0:0:0:0:

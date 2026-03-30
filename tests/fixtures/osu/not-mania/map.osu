@@ -1,0 +1,20 @@
+osu file format v14
+
+[General]
+AudioFilename: song.ogg
+Mode: 0
+
+[Metadata]
+Title: Not Mania
+Artist: Code M
+Creator: Code M
+Version: Standard
+
+[Difficulty]
+CircleSize: 4
+
+[TimingPoints]
+0,500,4,2,1,60,1,0
+
+[HitObjects]
+256,192,1000,1,0,0:0:0:0:

@@ -1,0 +1,23 @@
+[[songs]]
+id = "demo-basic"
+title = "Demo Basic"
+artist = "Code M"
+chart_name = "Normal"
+difficulty = 4
+bpm = 128
+mood = "Clean pulse"
+chart_path = "charts/demo_basic.toml"
+artwork_path = "artwork/demo_basic.txt"
+audio_path = "audio/demo_basic.wav"
+
+[[songs]]
+id = "demo-hold"
+title = "Demo Hold"
+artist = "Code M"
+chart_name = "Normal"
+difficulty = 6
+bpm = 143
+mood = "Cold pulse"
+chart_path = "charts/demo_hold.toml"
+artwork_path = "artwork/demo_hold.txt"
+audio_path = "audio/demo_hold.wav"
