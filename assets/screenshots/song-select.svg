@@ -1,0 +1,49 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0B0F10"/>
+  <rect x="24" y="24" width="1392" height="852" rx="28" fill="#11191D" stroke="#4E6267" stroke-width="2"/>
+  <rect x="48" y="48" width="1344" height="54" rx="18" fill="#162328" stroke="#637C82" stroke-width="2"/>
+  <text x="78" y="82" fill="#D7E0D8" font-family="monospace" font-size="28" font-weight="700">SEYTHM</text>
+  <text x="252" y="82" fill="#9CB2AB" font-family="monospace" font-size="24">Song Select</text>
+  <text x="1206" y="82" fill="#BFD1C9" font-family="monospace" font-size="22">mocha shell</text>
+
+  <rect x="48" y="126" width="290" height="674" rx="24" fill="#132025" stroke="#5D767C" stroke-width="2"/>
+  <text x="76" y="172" fill="#D7E0D8" font-family="monospace" font-size="24" font-weight="700">Browse</text>
+  <text x="76" y="214" fill="#8EA49E" font-family="monospace" font-size="21">Library      Bundled</text>
+  <text x="76" y="256" fill="#8EA49E" font-family="monospace" font-size="21">Imported     I</text>
+  <text x="76" y="298" fill="#8EA49E" font-family="monospace" font-size="21">Search       /</text>
+  <text x="76" y="340" fill="#8EA49E" font-family="monospace" font-size="21">Sort         BPM</text>
+  <text x="76" y="382" fill="#8EA49E" font-family="monospace" font-size="21">Settings     S</text>
+
+  <rect x="362" y="126" width="686" height="674" rx="24" fill="#132025" stroke="#5D767C" stroke-width="2"/>
+  <rect x="386" y="150" width="220" height="220" rx="18" fill="#22343B" stroke="#6B858C" stroke-width="2"/>
+  <text x="441" y="270" fill="#D7E0D8" font-family="monospace" font-size="34" font-weight="700">DB</text>
+  <text x="632" y="190" fill="#E4ECE5" font-family="monospace" font-size="32" font-weight="700">Demo Basic</text>
+  <text x="632" y="236" fill="#96AAA4" font-family="monospace" font-size="22">Code M Sound Team  ·  starter mix</text>
+  <text x="632" y="282" fill="#C7D9D1" font-family="monospace" font-size="20">6 Keys  |  128 BPM  |  Stage 04</text>
+  <text x="632" y="328" fill="#C7D9D1" font-family="monospace" font-size="20">Best 973240  |  12 plays  |  Acc 98.42%</text>
+
+  <rect x="386" y="400" width="638" height="92" rx="18" fill="#1E2E34" stroke="#6A8389" stroke-width="2"/>
+  <text x="412" y="445" fill="#E4ECE5" font-family="monospace" font-size="24" font-weight="700">&gt; Demo Hold</text>
+  <text x="412" y="476" fill="#9FB2AD" font-family="monospace" font-size="18">Code M Sound Team  ·  128 BPM  ·  Stage 06  ·  hold practice</text>
+
+  <rect x="386" y="506" width="638" height="92" rx="18" fill="#152227" stroke="#556D72" stroke-width="2"/>
+  <text x="412" y="551" fill="#D2DDD6" font-family="monospace" font-size="24">Minimal Mania 6K</text>
+  <text x="412" y="582" fill="#91A7A0" font-family="monospace" font-size="18">Imported  ·  174 BPM  ·  Stage 08  ·  stamina</text>
+
+  <rect x="386" y="612" width="638" height="92" rx="18" fill="#152227" stroke="#556D72" stroke-width="2"/>
+  <text x="412" y="657" fill="#D2DDD6" font-family="monospace" font-size="24">Starter Practice Pack</text>
+  <text x="412" y="688" fill="#91A7A0" font-family="monospace" font-size="18">Imported  ·  160 BPM  ·  Stage 05  ·  clean timing</text>
+
+  <rect x="1072" y="126" width="320" height="674" rx="24" fill="#132025" stroke="#5D767C" stroke-width="2"/>
+  <text x="1098" y="172" fill="#D7E0D8" font-family="monospace" font-size="24" font-weight="700">Search</text>
+  <text x="1098" y="214" fill="#A5BBB4" font-family="monospace" font-size="20">unified bundled + imported</text>
+  <rect x="1098" y="250" width="268" height="62" rx="14" fill="#1A2A30" stroke="#738D94" stroke-width="2"/>
+  <text x="1120" y="290" fill="#E4ECE5" font-family="monospace" font-size="22">query: demo</text>
+  <text x="1098" y="356" fill="#D7E0D8" font-family="monospace" font-size="22">results: 3</text>
+  <text x="1098" y="404" fill="#94A9A2" font-family="monospace" font-size="18">Ready for artwork preview</text>
+  <text x="1098" y="444" fill="#94A9A2" font-family="monospace" font-size="18">Splash branding active</text>
+  <text x="1098" y="484" fill="#94A9A2" font-family="monospace" font-size="18">Autoplay demo available</text>
+
+  <rect x="48" y="818" width="1344" height="40" rx="14" fill="#162328" stroke="#637C82" stroke-width="2"/>
+  <text x="80" y="845" fill="#C7D9D1" font-family="monospace" font-size="19">Navigate ↑/↓   Play Enter   Search /   Sort R   Imported I   Settings S   Theme T</text>
+</svg>

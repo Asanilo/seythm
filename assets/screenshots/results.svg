@@ -1,0 +1,39 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0A1012"/>
+  <rect x="24" y="24" width="1392" height="852" rx="28" fill="#10191D" stroke="#4D6267" stroke-width="2"/>
+  <rect x="48" y="48" width="1344" height="54" rx="18" fill="#152227" stroke="#637C81" stroke-width="2"/>
+  <text x="78" y="82" fill="#D7E0D8" font-family="monospace" font-size="28" font-weight="700">SEYTHM</text>
+  <text x="250" y="82" fill="#9CB2AB" font-family="monospace" font-size="24">Results</text>
+  <text x="1174" y="82" fill="#D7E0D8" font-family="monospace" font-size="22">Demo Basic</text>
+
+  <rect x="60" y="138" width="420" height="640" rx="24" fill="#132025" stroke="#5C757A" stroke-width="2"/>
+  <rect x="90" y="168" width="360" height="360" rx="22" fill="#203239" stroke="#70888E" stroke-width="2"/>
+  <text x="218" y="360" fill="#E4ECE5" font-family="monospace" font-size="40" font-weight="700">DB</text>
+  <text x="92" y="584" fill="#E4ECE5" font-family="monospace" font-size="30" font-weight="700">Demo Basic</text>
+  <text x="92" y="626" fill="#95ABA4" font-family="monospace" font-size="20">Code M Sound Team  ·  starter mix</text>
+  <text x="92" y="666" fill="#C7D9D1" font-family="monospace" font-size="20">Bundled  ·  128 BPM  ·  Stage 04</text>
+  <text x="92" y="706" fill="#C7D9D1" font-family="monospace" font-size="20">Replay captured  ·  artwork ready</text>
+
+  <rect x="514" y="138" width="372" height="640" rx="24" fill="#132025" stroke="#5C757A" stroke-width="2"/>
+  <text x="548" y="188" fill="#D7E0D8" font-family="monospace" font-size="24" font-weight="700">Grade</text>
+  <text x="620" y="360" fill="#E4ECE5" font-family="monospace" font-size="180" font-weight="700">S</text>
+  <text x="590" y="450" fill="#A3B7B1" font-family="monospace" font-size="24">98.42% accuracy</text>
+  <text x="582" y="492" fill="#A3B7B1" font-family="monospace" font-size="24">128 max combo</text>
+  <text x="565" y="534" fill="#A3B7B1" font-family="monospace" font-size="24">Personal best updated</text>
+  <rect x="560" y="600" width="280" height="80" rx="18" fill="#1B2B31" stroke="#70888E" stroke-width="2"/>
+  <text x="612" y="649" fill="#E4ECE5" font-family="monospace" font-size="30" font-weight="700">982,440</text>
+
+  <rect x="920" y="138" width="472" height="640" rx="24" fill="#132025" stroke="#5C757A" stroke-width="2"/>
+  <text x="952" y="188" fill="#D7E0D8" font-family="monospace" font-size="24" font-weight="700">Breakdown</text>
+  <text x="952" y="248" fill="#E4ECE5" font-family="monospace" font-size="24">Perfect      134</text>
+  <text x="952" y="298" fill="#E4ECE5" font-family="monospace" font-size="24">Great         11</text>
+  <text x="952" y="348" fill="#E4ECE5" font-family="monospace" font-size="24">Good           2</text>
+  <text x="952" y="398" fill="#E4ECE5" font-family="monospace" font-size="24">Miss           0</text>
+  <text x="952" y="478" fill="#97ACA6" font-family="monospace" font-size="22">Searchable catalogs</text>
+  <text x="952" y="518" fill="#97ACA6" font-family="monospace" font-size="22">Imported charts</text>
+  <text x="952" y="558" fill="#97ACA6" font-family="monospace" font-size="22">Autoplay demo mode</text>
+  <text x="952" y="598" fill="#97ACA6" font-family="monospace" font-size="22">Startup splash branding</text>
+
+  <rect x="48" y="818" width="1344" height="40" rx="14" fill="#162328" stroke="#637C82" stroke-width="2"/>
+  <text x="80" y="845" fill="#C7D9D1" font-family="monospace" font-size="19">Replay V   Return Enter/B   Restart R   Settings S   Theme T</text>
+</svg>
